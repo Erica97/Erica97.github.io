@@ -9,7 +9,7 @@
 
 ---
 
-- [Detect Vandalized edits in Wikipedia using Random Forests & Decision Trees](Vandalism_in_Wikipedia_edits.ipynb)
+- [Detect Vandalized edits in Wikipedia using Random Forests & Decision Trees](https://github.com/Erica97/Erica97.github.io/blob/master/Vandalism_in_Wikipedia_edits.ipynb)
 <img src="images/senlin.jpg"/>
 
 ### Market Research
