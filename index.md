@@ -9,7 +9,7 @@
 
 ---
 
-- [Detect Vandalistic edits in Wikipedia using Random Forest & Decision Trees](https://drive.google.com/file/d/1X_xwkLk7jmQiDNWYZq5zCoTWOFb79g5w/view?usp=sharing)
+- [Detect Vandalistic edits in Wikipedia using Random Forests & Decision Trees](https://drive.google.com/file/d/1X_xwkLk7jmQiDNWYZq5zCoTWOFb79g5w/view?usp=sharing)
 <img src="images/senlin.jpg"/>
 
 ### Market Research
