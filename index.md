@@ -14,7 +14,7 @@
 
 ---
 
-- [PredictDevelopers' Job Satisfaction & Job Interview pre-screening simulation](https://github.com/Erica97/Erica97.github.io/blob/master/ML%20Preliminary%20Report.pdf)
+- [Predict Developers' Job Satisfaction & Job Interview pre-screening simulation](https://github.com/Erica97/Erica97.github.io/blob/master/ML%20Preliminary%20Report.pdf)
 <img src="images/JobSatisfaction.jpg"/>
 ### Market Research
 
