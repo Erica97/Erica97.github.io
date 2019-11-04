@@ -16,6 +16,9 @@
 
 - [Predict Developers' Job Satisfaction & Job Interview pre-screening simulation](https://github.com/Erica97/Erica97.github.io/blob/master/ML%20Preliminary%20Report.pdf)
 <img src="images/JobSatisfaction.jpg"/>
+
+---
+
 ### Market Research
 
 - [Tim Hortons Marching Into China](https://www.ericaportfolio.com/post/tim-hortons-marching-into-china)
