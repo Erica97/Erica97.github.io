@@ -22,7 +22,6 @@
 ### Information System Design
 
 - [Earphone Gurus: The earphone archives and trading platform]
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -131,21 +130,27 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
+  <div class="numbertext">1 / 4</div>
   <img src="images/welcome.png" style="width:100%">
-  <div class="text">Caption Text</div>
+  <div class="text">welcome page</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
+  <div class="numbertext">2 / 4</div>
   <img src="images/search.png" style="width:100%">
-  <div class="text">Caption Two</div>
+  <div class="text">search earphone</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">3 / 4</div>
   <img src="images/post.png" style="width:100%">
-  <div class="text">Caption Three</div>
+  <div class="text">earphone owner posts an ad</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 4</div>
+  <img src="images/review.png" style="width:100%">
+  <div class="text">earphone buyer reviews the transaction</div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
