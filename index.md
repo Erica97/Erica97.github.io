@@ -14,7 +14,7 @@
 
 ---
 
-- [Predict Developers' Job Satisfaction & Job Interview pre-screening simulation](https://github.com/Erica97/Erica97.github.io/blob/master/ML%20Preliminary%20Report.pdf)
+- [Predict Developers' Job Satisfaction & Job Interview pre-screening simulation](https://docs.google.com/presentation/d/1xiapxgW3oaaU55GzEOwo5UeRGCAH4260mmO5zc6UkNU/edit?usp=sharing)
 <img src="images/JobSatisfaction.jpg"/>
 
 ---
