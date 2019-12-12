@@ -14,7 +14,7 @@
 
 ---
 
-- [Developer Job Interview pre-screening simulation](https://docs.google.com/presentation/d/1xiapxgW3oaaU55GzEOwo5UeRGCAH4260mmO5zc6UkNU/edit?usp=sharing)
+- [Developer Job Interview pre-screening simulation (Abstract)](https://docs.google.com/presentation/d/1xiapxgW3oaaU55GzEOwo5UeRGCAH4260mmO5zc6UkNU/edit?usp=sharing)[Click here to see full text]
 <img src="images/JobSimulation.png"/>
 
 ---
