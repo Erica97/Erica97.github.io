@@ -15,7 +15,7 @@
 ---
 
 - [Developer Job Interview pre-screening simulation (Abstract)](https://docs.google.com/presentation/d/1xiapxgW3oaaU55GzEOwo5UeRGCAH4260mmO5zc6UkNU/edit?usp=sharing)
---[Click here to view full report](https://github.com/Erica97/Erica97.github.io/blob/master/mie368.pdf)
+- [Click here to view full report](https://github.com/Erica97/Erica97.github.io/blob/master/mie368.pdf)
 <img src="images/JobSimulation.png"/>
 
 ---
