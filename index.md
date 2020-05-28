@@ -201,7 +201,7 @@ function showSlides(n) {
 ---
 ### Algorithms & Numerical Methods
 
-- [Multi-objective 0-1 Knapsack Problem Solver](https://www.ericaportfolio.com/post/predict-customer-response-rate-for-a-marketing-campaign-by-using-a-logistic-regression-model)
-<img src="images/ta.jpg"/>
+- [Multi-objective 0-1 Knapsack Problem Solver](https://github.com/Erica97/Erica97.github.io/blob/master/MIE335%20Final%20report.pdf)
+<img src="images/ndp.jpg"/>
 
 ---
