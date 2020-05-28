@@ -199,13 +199,3 @@ function showSlides(n) {
 </body>
 </html> 
 ---
-
-### Market Research
-
-- [Tim Hortons Marching Into China](https://www.ericaportfolio.com/post/tim-hortons-marching-into-china)
-<img src="images/th.jpeg"/>
-
-
-
-
-
