@@ -1,0 +1,31 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\kizun\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add gh-pages
+
+PATH: 
+  C:\Python312\Scripts\;C:\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\c\bin;C:\perl\site\bin;C:\perl\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\kizun\AppData\Local\activestate\cache\bin;C:\Users\kizun\AppData\Local\ActiveState\StateTool\release\bin;C:\Users\kizun\anaconda3;C:\Users\kizun\anaconda3\Library\mingw-w64\bin;C:\Users\kizun\anaconda3\Library\usr\bin;C:\Users\kizun\anaconda3\Library\bin;C:\Users\kizun\anaconda3\Scripts;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\kizun\AppData\Local\Microsoft\WindowsApps;C:\Users\kizun\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.9;C:\Program Files\heroku\bin;C:\Users\kizun\AppData\Local\GitHubDesktop\bin;C:\Users\kizun\AppData\Local\atom\bin;C:\Users\kizun\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\kizun\AppData\Local\Microsoft\WindowsApps;C:\Users\kizun\AppData\Roaming\npm
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  20.11.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: C:\Users\kizun\Desktop\Erica97.github.io\package.json: Unexpected non-whitespace character after JSON at position 11
+      at JSON.parse (<anonymous>)
+      at C:\Users\kizun\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:1629:59
+      at Generator.next (<anonymous>)
+      at step (C:\Users\kizun\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:310:30)
+      at C:\Users\kizun\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:321:13
+
+npm manifest: 
+  "homepage":"https://github.com/Erica97/Erica97.github.io",
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

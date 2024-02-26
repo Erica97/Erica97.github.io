@@ -1,0 +1,6 @@
+"homepage":"https://github.com/Erica97/Erica97.github.io",
+
+  "scripts": {
+    "predeploy": "npm run build",
+-   "deploy": "gh-pages -d build",
++   "deploy": "gh-pages -b master -d build",
